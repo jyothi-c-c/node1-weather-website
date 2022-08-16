@@ -1,5 +1,4 @@
 
-
 console.log('client side javascript file is loaded')
 //const fetch = require('fetch')
 
